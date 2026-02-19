@@ -17,3 +17,12 @@
 - Mediapipe: ตรวจจับ Pose และ Hand Landmarks
 - Tkinter & Pillow: สร้างหน้าต่าง GUI และจัดการการแสดงผลรูปภาพ
 - NumPy: คำนวณค่าทางคณิตศาสตร์สำหรับ PID Control
+
+
+# การติดตั้ง (Installation)
+Clone โปรเจกต์:
+- git clone https://github.com/your-username/your-repo-name.git
+- cd your-repo-name
+
+ติดตั้ง Library ที่จำเป็น:
+- pip install djitellopy opencv-python mediapipe pillow numpy
