@@ -1,4 +1,4 @@
-# Tello Drone: AI Gesture & Keyboard Control 
+# Dji Trello AI-Powered Autonomous Drone Control System 
   โปรเจกต์ควบคุมโดรน DJI Tello ด้วยภาษา Python ที่ผสมผสานระหว่างการควบคุมแบบ Manual (GUI/Keyboard) และการควบคุมแบบ 
   AI (Computer Vision) โดยใช้ Mediapipe ในการตรวจจับท่าทาง (Pose) และท่าทางมือ (Hand Gestures)
 
