@@ -26,3 +26,8 @@ Clone โปรเจกต์:
 
 ติดตั้ง Library ที่จำเป็น:
 - pip install djitellopy opencv-python mediapipe pillow numpy
+
+
+<img width="1100" height="621" alt="image" src="https://github.com/user-attachments/assets/5a7f0f5c-92a1-4c91-b1d1-aaeab8b848e0" />
+<img width="1097" height="613" alt="image" src="https://github.com/user-attachments/assets/26480347-4191-48f1-985b-5daf2dd46744" />
+
